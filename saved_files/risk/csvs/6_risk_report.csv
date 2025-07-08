@@ -1,0 +1,16 @@
+Supplier,Avg On-Time Delivery,Lead Time Variability,Defect Rate (%),Demand Variability,Risk Score,Recommendations
+Supplier_1,65.71,,2.71,,,📍 Improve on-time delivery
+Supplier_10,60.28,,0.63,,,📍 Improve on-time delivery
+Supplier_11,60.92,,9.45,,,📍 Improve on-time delivery | 📍 Address quality issues
+Supplier_12,80.99,,5.85,,,📍 Improve on-time delivery | 📍 Address quality issues
+Supplier_13,75.99,,4.16,,,📍 Improve on-time delivery
+Supplier_14,61.87,,0.65,,,📍 Improve on-time delivery
+Supplier_15,98.95,,2.69,,,
+Supplier_2,86.04,,1.36,,,
+Supplier_3,62.26,,6.37,,,📍 Improve on-time delivery | 📍 Address quality issues
+Supplier_4,88.88,,4.13,,,
+Supplier_5,97.54,,9.84,,,📍 Address quality issues
+Supplier_6,60.03,,4.93,,,📍 Improve on-time delivery
+Supplier_7,99.69,,8.67,,,📍 Address quality issues
+Supplier_8,84.7,,6.96,,,📍 Improve on-time delivery | 📍 Address quality issues
+Supplier_9,84.47,,4.78,,,📍 Improve on-time delivery

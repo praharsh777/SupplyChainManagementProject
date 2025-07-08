@@ -1,0 +1,9 @@
+# .gitignore
+*.pyc
+*.exe
+*.class
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

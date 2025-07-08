@@ -1,0 +1,6 @@
+Supplier,Avg On-Time Delivery,Lead Time Variability,Defect Rate (%),Demand Variability,Risk Score,Recommendations
+Beta_Supplies,58.28,838.69,104.83,27.05,228.07,📍 Improve on-time delivery | 📍 Address quality issues | 📍 Reduce lead time variance | 📍 Consider alternate supplier
+Delta_Logistics,56.24,627.85,154.94,25.19,187.94,📍 Improve on-time delivery | 📍 Address quality issues | 📍 Reduce lead time variance | 📍 Consider alternate supplier
+Epsilon_Group,59.39,630.14,33.21,25.1,157.26,📍 Improve on-time delivery | 📍 Address quality issues | 📍 Reduce lead time variance | 📍 Consider alternate supplier
+Alpha_Inc,58.39,564.17,24.04,26.65,139.12,📍 Improve on-time delivery | 📍 Address quality issues | 📍 Reduce lead time variance | 📍 Consider alternate supplier
+Gamma_Co,59.35,521.67,54.95,26.92,136.05,📍 Improve on-time delivery | 📍 Address quality issues | 📍 Reduce lead time variance | 📍 Consider alternate supplier
